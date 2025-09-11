@@ -12,7 +12,7 @@ Social network for sharing thoughts.
 
 [Sense Web](https://github.com/fpmi-hci-2025/project11a-web-sense) - web application for "Sense".
 
-[Sense Mobile](https://github.com/fpmi-hci-2025/project11a-mobile-sense) - mobile application for "Sense".
+[Sense Mobile](https://github.com/fpmi-hci-2025/project11a-mobile-sense) - ai application for "Sense".
 
 ## Usage
 
