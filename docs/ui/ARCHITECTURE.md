@@ -114,6 +114,10 @@
 
 ![alt text](diagrams/ai-api-web.png)
 
+## CJM
+<img width="10208" height="2468" alt="image" src="https://github.com/user-attachments/assets/22feaf4b-ef0c-4fdc-923d-a235695e8916" />
+
+
 ## Словарь терминов
 
 Post -  публикация с фотографией и описанием.
