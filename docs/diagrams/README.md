@@ -111,3 +111,6 @@
 <img src="diagrams/packages/web.png" />
 
 ## Диаграммы развертывания
+
+## C4 - Архитектура
+![alt text](diagrams/c4.png)
