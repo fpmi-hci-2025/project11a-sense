@@ -89,17 +89,25 @@
 ## Диаграммы бизнес-процессов
 
 ## Use-case диаграммы
+<img src="diagrams/use-case/api.jpg"/>
 
 ## Диаграммы деятельности
 
 ## Диаграммы классов и объектов
+<img src="diagrams/objects/api.png"/>
 
 ## Диаграммы последовательности
 
 ## Диаграммы компонентов
 <img src="diagrams/components/web.png"/>
+<img src="diagrams/components/api.png"/>
 
 ## Диаграммы пакетов
 <img src="diagrams/packages/web.png" />
+<img src="diagrams/packages/api.png" />
 
 ## Диаграммы развертывания
+<img src="diagrams/deployment/deploy.png" />
+
+## Диаграмма БД
+<img src="diagrams/database/db.png" />
