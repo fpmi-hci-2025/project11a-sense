@@ -39,7 +39,7 @@ Sense is a smart social network for sharing thoughts, incredible ideas and inspi
   </tr>
 <tr>
     <td>
-      <a href="https://github.com/yuliaraitsyna" target="_blank">
+      <a href="https://github.com/tayadj" target="_blank">
         <img src="https://github.com/user-attachments/assets/8e253bfc-aed8-46c3-aeb5-fbc28f5a8b69" width="60" height="60" alt="Yuliya Raitsyna"/>
       </a>
     </td>
