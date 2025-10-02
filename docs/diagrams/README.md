@@ -95,6 +95,15 @@
 ## Диаграммы классов и объектов
 
 ## Диаграммы последовательности
+![alt text](diagrams/sequence/auth.png)
+
+![alt text](diagrams/sequence/create.png)
+
+![alt text](diagrams/sequence/delete.png)
+
+![alt text](diagrams/sequence/article.png)
+
+![alt text](diagrams/sequence/search.png)
 
 ## Диаграммы компонентов
 
