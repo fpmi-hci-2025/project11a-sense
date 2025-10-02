@@ -97,6 +97,7 @@
 ## Диаграммы последовательности
 
 ## Диаграммы компонентов
+<img src="diagrams/components/web.png"/>
 
 ## Диаграммы пакетов
 <img src="diagrams/packages/web.png" />
