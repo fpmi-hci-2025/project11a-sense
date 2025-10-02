@@ -95,6 +95,15 @@
 ## Диаграммы классов и объектов
 
 ## Диаграммы последовательности
+![alt text](diagrams/sequence/auth.png)
+
+![alt text](diagrams/sequence/create.png)
+
+![alt text](diagrams/sequence/delete.png)
+
+![alt text](diagrams/sequence/article.png)
+
+![alt text](diagrams/sequence/search.png)
 
 ## Диаграммы компонентов
 <img src="diagrams/components/web.png"/>
@@ -103,3 +112,12 @@
 <img src="diagrams/packages/web.png" />
 
 ## Диаграммы развертывания
+
+## Event Storming
+<img width="865" height="657" alt="image" src="https://github.com/user-attachments/assets/b1037909-3081-47b6-af5d-01d82bbd9d12" />
+
+## Event Modeling
+<img width="1178" height="495" alt="image" src="https://github.com/user-attachments/assets/9747a8d9-65c7-43b7-9e8a-e8fecf79f4d4" />
+
+## C4 - Архитектура
+![alt text](diagrams/c4.png)
