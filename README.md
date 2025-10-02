@@ -2,7 +2,7 @@
 
 ## Description
 
-Social network for sharing thoughts.
+Sense is a smart social network for sharing thoughts, incredible ideas and inspiration. It provides AI facilities for creative articles and posts. You'll be able to get personal recommendations and user-friendly UI.
 
 ## Installation
 
@@ -32,6 +32,8 @@ Social network for sharing thoughts.
     </td>
     <td>
       <li>Team Lead</li>
+      <li>Project manager</li>
+      <li>UI/UX Designer</li>
       <li>Frontend developer</li>
     </td>
   </tr>
@@ -47,7 +49,7 @@ Social network for sharing thoughts.
       </a>
     </td>
     <td>
-      <li>Mobile Developer</li>
+      <li>AI Specialist</li>
     </td>
   </tr>
 <tr>
@@ -62,7 +64,9 @@ Social network for sharing thoughts.
       </a>
     </td>
 <td>
-      <li>Backend Developer</li>
+      <li>Golang Developer</li>
+      <li>Database Manager</li>
     </td>
   </tr>
 </table>
+
