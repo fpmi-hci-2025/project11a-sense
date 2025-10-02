@@ -89,10 +89,12 @@
 ## Диаграммы бизнес-процессов
 
 ## Use-case диаграммы
+<img src="diagrams/use-case/api.jpg"/>
 
 ## Диаграммы деятельности
 
 ## Диаграммы классов и объектов
+<img src="diagrams/objects/api.png"/>
 
 ## Диаграммы последовательности
 ![alt text](diagrams/sequence/auth.png)
@@ -107,11 +109,17 @@
 
 ## Диаграммы компонентов
 <img src="diagrams/components/web.png"/>
+<img src="diagrams/components/api.png"/>
 
 ## Диаграммы пакетов
 <img src="diagrams/packages/web.png" />
+<img src="diagrams/packages/api.png" />
 
 ## Диаграммы развертывания
+<img src="diagrams/deployment/deploy.png" />
+
+## Диаграмма БД
+<img src="diagrams/database/db.png" />
 
 ## Event Storming
 <img width="865" height="657" alt="image" src="https://github.com/user-attachments/assets/b1037909-3081-47b6-af5d-01d82bbd9d12" />
