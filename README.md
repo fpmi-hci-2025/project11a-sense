@@ -2,6 +2,8 @@
 
 ## Description
 
+[Docs](https://fpmi-hci-2025.github.io/project11a-sense/)
+
 Sense is a smart social network for sharing thoughts, incredible ideas and inspiration. It provides AI facilities for creative articles and posts. You'll be able to get personal recommendations and user-friendly UI.
 
 ## Installation
