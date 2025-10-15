@@ -66,20 +66,20 @@ Sense - это социальная сеть для вдохновления и 
   </tr>
 </table>
 
-<link rel="stylesheet" href="/assets/css/style.scss">
+<link rel="stylesheet" href="project11a-sense/assets/css/style.scss">
 
 <div class="sidebar">
     <ul>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/index.html">Home</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/goals.html">Our goals</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/research.html">Research</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/users.html">Users and scenarios</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/models.html">Models</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/design.html">Design</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/profiles.html">Profiles</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/processes.html">Proccesses</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/ui.html">UI</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/diagrams.html">Diagrams</a></li>
-        <li><a href="https://github.com/fpmi-hci-2025/project11a-sense/architecture.html">Architecture</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/index.html">Home</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/goals.html">Our goals</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/research.html">Research</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/users.html">Users and scenarios</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/models.html">Models</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/design.html">Design</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/profiles.html">Profiles</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/processes.html">Proccesses</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/ui.html">UI</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/diagrams.html">Diagrams</a></li>
+        <li><a href="https://fpmi-hci-2025.github.io/project11a-sense/architecture.html">Architecture</a></li>
     </ul>
 </div>
