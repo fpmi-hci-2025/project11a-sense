@@ -135,22 +135,22 @@
 
 ## Информационная архитектура веб-приложения
 
-![alt text](diagrams/web-map.png)
+![alt text](assets/diagrams/ui/web-map.png)
 
 ## Концептуальные макеты
 
-![alt text](design/main.png)
-![alt text](design/login.png)
-![alt text](design/register.png)
-![alt text](design/feed.png)
-![alt text](design/profile.png)
-![alt text](design/search.png)
-<img height=300 src="design/mobile.png">
+![alt text](assets/design/main.png)
+![alt text](assets/design/login.png)
+![alt text](assets/design/register.png)
+![alt text](assets/design/feed.png)
+![alt text](assets/design/profile.png)
+![alt text](assets/design/search.png)
+<img height=300 src="assets/design/mobile.png">
 
 ## Навигационная модель системы и общая диаграмма путей
 
-![alt text](diagrams/navigation.png)
-![alt text](diagrams/ways.png)
+![alt text](assets/diagrams/ui/navigation.png)
+![alt text](assets/diagrams/ui/ways.png)
 
 ## CJM
 
@@ -158,21 +158,21 @@
 
 ## Интерактивные раскадровки персонажей и совокупная диаграмма взаимодействия
 
-![alt text](diagrams/auth.png)
+![alt text](assets/diagrams/ui/auth.png)
 
-![alt text](diagrams/main.png)
+![alt text](assets/diagrams/ui/main.png)
 
-![alt text](diagrams/profile.png)
+![alt text](assets/diagrams/ui/profile.png)
 
-![alt text](diagrams/search.png)
+![alt text](assets/diagrams/ui/search.png)
 
-![alt text](diagrams/expert.png)
+![alt text](assets/diagrams/ui/expert.png)
 
-![alt text](diagrams/creator.png)
+![alt text](assets/diagrams/ui/creator.png)
 
-![alt text](diagrams/user.png)
+![alt text](assets/diagrams/ui/user.png)
 
-![alt text](diagrams/ai-api-web.png)
+![alt text](assets/diagrams/ui/ai-api-web.png)
 
 ## Дизайн макеты
 

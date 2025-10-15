@@ -85,34 +85,34 @@
 
 ## Карта сайта
 
-![alt text](diagrams/web-map.png)
+![alt text](assets/diagrams/ui/web-map.png)
 
 ## Навигационная модель персонажей
 
-![alt text](diagrams/navigation.png)
+![alt text](assets/diagrams/ui/navigation.png)
 
 ## Диаграмма путей
 
-![alt text](diagrams/ways.png)
+![alt text](assets/diagrams/ui/ways.png)
 
 ## Интерактивные раскадровки персонажей
-![alt text](diagrams/auth.png)
+![alt text](assets/diagrams/ui/auth.png)
 
-![alt text](diagrams/main.png)
+![alt text](assets/diagrams/ui/main.png)
 
-![alt text](diagrams/profile.png)
+![alt text](assets/diagrams/ui/profile.png)
 
-![alt text](diagrams/search.png)
+![alt text](assets/diagrams/ui/search.png)
 
-![alt text](diagrams/expert.png)
+![alt text](assets/diagrams/ui/expert.png)
 
-![alt text](diagrams/creator.png)
+![alt text](assets/diagrams/ui/creator.png)
 
-![alt text](diagrams/user.png)
+![alt text](assets/diagrams/ui/user.png)
 
 ## Совокупная диаграмма взаимодействия
 
-![alt text](diagrams/ai-api-web.png)
+![alt text](assets/diagrams/ui/ai-api-web.png)
 
 ## CJM
 <img width="10208" height="2468" alt="image" src="https://github.com/user-attachments/assets/22feaf4b-ef0c-4fdc-923d-a235695e8916" />
