@@ -1,5 +1,9 @@
 # Анализ дизайна приложения Sense
 
+[Figma](https://www.figma.com/design/VqNQYq2KZ2AiWljsShsAlO/Sense?node-id=372-158&t=4Ib15rOT9uGSANG5-1)
+
+![Style guide](assets/screenshots/guide.png)
+
 Макеты приложения Sense включают в себя:
 
 ### 4. Главную страницу (Feed) - светлая и темная темы
@@ -20,19 +24,44 @@
 ![Создание поста](assets/screenshots/screenshot_create_post.png)
 *Интерфейс для создания нового поста с возможностью добавления изображений*
 
+![Создание поста](assets/screenshots/screenshot_article_create.png)
+*Интерфейс для создания новой статьи*
+
+![Создание поста](assets/screenshots/screenshot_quote_create.png)
+*Интерфейс для создания новой цитаты*
+
 ### 7. Страницы поиска
 
 ![Страница поиска](assets/screenshots/screenshot_search.png)
 *Функциональная страница поиска с результатами*
 
+![Страница поиска](assets/screenshots/screenshot_search_dark.png)
+*Функциональная страница поиска с результатами*
+
 ### 8. Страницы авторизации и регистрации
+
+![Страница авторизации](assets/screenshots/screenshot_login.png)
+*Форма авторизации пользователя*
 
 ![Страница регистрации](assets/screenshots/screenshot_register.png)
 *Форма регистрации нового пользователя*
 
-### 9. Мобильные версии интерфейса
+### 9. Страница настроек
+
+![Страница настроек](assets/screenshots/settings.png)
+*Настройки*
+
+### 10. Страница команды
+
+![Страница команды](assets/screenshots/team.png)
+*Команда*
+
+### 11. Мобильные версии интерфейса
 
 ![Мобильная версия](assets/screenshots/screenshot_mobile.png)
+*Адаптивная мобильная версия интерфейса*
+
+![Мобильная версия](assets/screenshots/screenshot_mobile_dark.png)
 *Адаптивная мобильная версия интерфейса*
 
 На основе анализа дизайна созданы следующие шкалы оценки (от 1 до 5, где 5 - максимальное значение):
